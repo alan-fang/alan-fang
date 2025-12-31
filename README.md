@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I work at Facebook on FBWeb. Previously I spent 5 years at Superhuman/Grammarly/Coda/whatever/etc. working on our integrations framework, Packs, as well as some LLM product work. 
 <!--
 **alan-fang/alan-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
